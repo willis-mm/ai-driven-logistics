@@ -12,7 +12,7 @@ const MarketOpportunity = () => {
             <span className="bg-gradient-primary bg-clip-text text-transparent"> Opportunity</span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            The global logistics market is projected to reach $6.2T by 2027. We're positioned to capture significant market share in the rapidly growing local logistics segment.
+            We serve the massive need in the $6.2T global logistics market, specifically targeting ecommerce brands with direct-to-consumer channels who need reliable, scalable local delivery solutions.
           </p>
         </div>
         
@@ -59,17 +59,6 @@ const MarketOpportunity = () => {
           </div>
         </div>
         
-        <div className="text-center">
-          <Card className="inline-block p-8 shadow-elegant bg-gradient-primary text-white">
-            <h3 className="text-2xl font-bold mb-4">Investment Opportunity</h3>
-            <p className="text-lg mb-6 opacity-90">
-              Join us in revolutionizing the logistics industry. Series A funding round open for strategic investors.
-            </p>
-            <Button variant="investor" size="lg" className="bg-white text-primary hover:bg-white/90">
-              Request Investor Deck
-            </Button>
-          </Card>
-        </div>
       </div>
     </section>
   );

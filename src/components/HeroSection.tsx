@@ -11,6 +11,16 @@ const HeroSection = () => {
         className="absolute inset-0 bg-cover bg-center bg-no-repeat opacity-20"
         style={{ backgroundImage: `url(${heroImage})` }}
       ></div>
+      {/* Video background placeholder - can be enabled later */}
+      <video 
+        className="absolute inset-0 w-full h-full object-cover opacity-20 hidden"
+        autoPlay 
+        muted 
+        loop
+        playsInline
+      >
+        {/* <source src="/hero-video.mp4" type="video/mp4" /> */}
+      </video>
       
       {/* Content */}
       <div className="relative z-10 container mx-auto px-6 text-center text-white">
