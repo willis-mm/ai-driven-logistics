@@ -26,14 +26,11 @@ const HeroSection = () => {
       <div className="relative z-10 container mx-auto px-6 text-center text-white">
         <div className="max-w-4xl mx-auto">
           <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight text-white">
-            The Future of
-            <span className="block text-primary-glow">
-              Local Logistics
-            </span>
+            The Future of Local Logistics
           </h1>
           
           <p className="text-xl md:text-2xl mb-8 text-white/90 leading-relaxed max-w-3xl mx-auto">
-            We're building the market-defining platform that combines human intelligence with AI to revolutionize local logistics, delivering unprecedented efficiency, scale, and growth opportunities.
+            We're building the market-defining combination of human intelligence and AI so any brand can leverage local logistics, delivering unprecedented efficiency, scale, and growth opportunities.
           </p>
           
         </div>
