@@ -51,17 +51,6 @@ const CustomerSuccess = () => {
           </Card>
         </div>
         
-        <div className="text-center">
-          <p className="text-lg text-muted-foreground mb-8">
-            Join 500+ DTC brands already scaling with our platform
-          </p>
-          <div className="flex flex-wrap justify-center gap-8 opacity-60">
-            <div className="text-2xl font-bold text-muted-foreground">BRAND A</div>
-            <div className="text-2xl font-bold text-muted-foreground">BRAND B</div>
-            <div className="text-2xl font-bold text-muted-foreground">BRAND C</div>
-            <div className="text-2xl font-bold text-muted-foreground">BRAND D</div>
-          </div>
-        </div>
       </div>
     </section>
   );

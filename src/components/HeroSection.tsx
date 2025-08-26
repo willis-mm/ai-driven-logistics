@@ -25,9 +25,9 @@ const HeroSection = () => {
       {/* Content */}
       <div className="relative z-10 container mx-auto px-6 text-center text-white">
         <div className="max-w-4xl mx-auto">
-          <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
+          <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight text-white">
             The Future of
-            <span className="block bg-gradient-to-r from-white to-primary-glow bg-clip-text text-transparent">
+            <span className="block text-primary-glow">
               Local Logistics
             </span>
           </h1>
