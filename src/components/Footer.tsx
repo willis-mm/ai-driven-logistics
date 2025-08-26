@@ -13,9 +13,6 @@ const Footer = () => {
             <p className="text-background/80 mb-6 max-w-md">
               Revolutionizing local logistics through the power of human intelligence combined with AI optimization. Building the future of efficient, scalable delivery solutions.
             </p>
-            <Button variant="hero" size="lg">
-              Get Started
-            </Button>
           </div>
           
           <div>

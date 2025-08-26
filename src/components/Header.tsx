@@ -19,9 +19,6 @@ const Header = () => {
             <a href="#market" className="text-muted-foreground hover:text-foreground transition-smooth">
               Market
             </a>
-            <Button variant="investor" size="sm">
-              Get in Touch
-            </Button>
           </nav>
         </div>
       </div>

@@ -36,14 +36,6 @@ const HeroSection = () => {
             We're building the market-defining platform that combines human intelligence with AI to revolutionize local logistics, delivering unprecedented efficiency, scale, and growth opportunities.
           </p>
           
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Button variant="hero" size="lg" className="text-lg px-8 py-4">
-              Investor Presentation
-            </Button>
-            <Button variant="investor" size="lg" className="text-lg px-8 py-4 bg-white/10 border-white/30 text-white hover:bg-white hover:text-primary">
-              Schedule Demo
-            </Button>
-          </div>
         </div>
       </div>
       

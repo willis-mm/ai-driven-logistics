@@ -71,14 +71,6 @@ const PlatformFeatures = () => {
           </div>
         </div>
         
-        <div className="text-center">
-          <Button variant="default" size="lg" className="text-lg px-8 py-4 mr-4">
-            Start Free Trial
-          </Button>
-          <Button variant="outline" size="lg" className="text-lg px-8 py-4">
-            Schedule Demo
-          </Button>
-        </div>
       </div>
     </section>
   );
