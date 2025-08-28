@@ -9,17 +9,6 @@ const Header = () => {
           <div className="text-2xl font-bold bg-gradient-primary bg-clip-text text-transparent">
             Middle Mile
           </div>
-          <nav className="hidden md:flex items-center space-x-8">
-            <a href="#platform" className="text-muted-foreground hover:text-foreground transition-smooth">
-              Platform
-            </a>
-            <a href="#technology" className="text-muted-foreground hover:text-foreground transition-smooth">
-              Technology
-            </a>
-            <a href="#market" className="text-muted-foreground hover:text-foreground transition-smooth">
-              Market
-            </a>
-          </nav>
         </div>
       </div>
     </header>
