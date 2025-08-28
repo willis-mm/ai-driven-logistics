@@ -7,7 +7,7 @@ const Header = () => {
       <div className="container mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           <div className="text-2xl font-bold bg-gradient-primary bg-clip-text text-transparent">
-            LogiFlow
+            Middle Mile
           </div>
           <nav className="hidden md:flex items-center space-x-8">
             <a href="#platform" className="text-muted-foreground hover:text-foreground transition-smooth">
